@@ -28,6 +28,8 @@ export default function Menu() {
             </NavDropdown> 
             <NavDropdown title="FunçãoNext" id="funcaoNext">
               <NavDropdown.Item href="/funcaonext/gssp">GetSertverSideProps</NavDropdown.Item>
+              <NavDropdown.Item href="/funcaonext/gsspcard">Noticias Card</NavDropdown.Item>
+              <NavDropdown.Item href="/funcaonext/gsspcardcomponent">Noticias Card API</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
